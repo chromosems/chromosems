@@ -63,9 +63,9 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 
 ## Certifications
 <div>
-<img src="https://images.youracclaim.com/size/220x220/images/66096b2f-6220-4bb1-b216-3142c85b7c9b/AZ-900-Associate-600x600.png)](https://www.youracclaim.com/badges/66096b2f-6220-4bb1-b216-3142c85b7c9b/public_url)"/> 
-<img src="https://img.shields.io/badge/-SC-900%2B-007ACC?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python for penetration testers?&style=for-the-badge&logo=logoColor=white" />
+<img src="https://img.shields.io/badge/-+security%2B-007ACC?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-network?&style=for-the-badge&logo=logoColor=white" />
 
 </div>
 

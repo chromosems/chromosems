@@ -32,10 +32,10 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Pen testing
 <div>
-    <img src="https://img.shields.io/badge/Nmap--Nmap-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nmap-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https:////img.shields.io/badge/Nessus-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 

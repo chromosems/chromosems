@@ -63,9 +63,8 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-+security%2B-007ACC?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/-network?&style=for-the-badge&logo=logoColor=white" />
+<img src="https://www.credly.com/badges/47437b51-46c4-4f44-a999-adfe3634d013/linked_in_profile" />
+<img src="https://www.credly.com/badges/356abed5-f524-4e82-b43a-6e58fea63d80/linked_in_profile" />
 
 </div>
 

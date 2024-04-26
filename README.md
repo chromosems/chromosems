@@ -63,12 +63,13 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=AZ-900&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=SC-900&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=Python for penetration testers&logoColor=white" />
+<img src="https://img.shields.io/badge/-AZ-900%2B-FF0000?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-SC-900%2B-007ACC?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python for penetration testers?&style=for-the-badge&logo=logoColor=white" />
 
 </div>
 
 ## Projects
 - Attackiing Active Directory 
 - Attacking common Web Application vulnerabilities
+- Attacking wireless Network

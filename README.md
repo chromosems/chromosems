@@ -35,10 +35,10 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 ### Pen testing
 <div>
     <img src="https://img.shields.io/badge/Nmap-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nessus-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nessus-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/Hashcat-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
      <img src="https://img.shields.io/badge/kali linux-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-         <img src="https://img.shields.io/badge/Burp Suite-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+         <img src="https://img.shields.io/badge/Burp Suite-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
              <img src="https://img.shields.io/badge/Smb Relay-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
                   <img src="https://img.shields.io/badge/GoWitness-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL injection-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -51,26 +51,25 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Software As Aservice (SAAS)-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=AZ-900&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=SC-900&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=Python for penetration testers&logoColor=white" />
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Attackiing Active Directory 
+- Attacking common Web Application vulnerabilities

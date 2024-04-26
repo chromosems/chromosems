@@ -66,7 +66,6 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 <div>
     <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)](https://www.credly.com/badges/356abed5-f524-4e82-b43a-6e58fea63d80/linked_in_profile)" />
 
- <img src="https://img.shields.io/badge/-AZ-900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/SC-900-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 
 </div>

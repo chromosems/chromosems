@@ -35,8 +35,17 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 ### Pen testing
 <div>
     <img src="https://img.shields.io/badge/Nmap-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https:////img.shields.io/badge/Nessus-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nessus-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hashcat-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+     <img src="https://img.shields.io/badge/kali linux-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+         <img src="https://img.shields.io/badge/Burp Suite-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+             <img src="https://img.shields.io/badge/Smb Relay-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+                  <img src="https://img.shields.io/badge/GoWitness-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL injection-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+
+
+
+
 </div>
 
 ### Endpoint

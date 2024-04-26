@@ -42,7 +42,7 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Azure cloud computing&logoColor-00A4EF?&style=for-the-badge&logo==white" />
+    <img src="https://img.shields.io/badge/-Azure cloud computing-00A4EF?&style=for-the-badge&logo==white" />
     
 
 </div>

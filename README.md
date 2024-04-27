@@ -16,12 +16,12 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 |Vulnerability assessment                       | <a href="https://github.com/chromosems/attacking-web-application-with-common-vulnerabilities/tree/main">Attacking web aplication with common vulnerabilities</a>|
 | Operating System Knowledge (linux/windows)    | <a href="https://google.com">Detection Lab</a>|
 | Scripting and programming languages           | SOC Automation Lab|
-| Exploitation techniques                       |  <a href="https://github.com/chromosems/Exploitation-of-stand-alone-machines-/tree/main">Attacking standalone machines</a> |
+| Exploitation techniques to gain shell access   <a href="https://github.com/chromosems/Exploitation-of-stand-alone-machines-/tree/main">Attacking standa-lone machine </a> |
 | Wireless Security                             | <a href="https://google.com">Detection Lab</a>  |
 | Penetration Testing Tools                     |                      |
 | Report Writing                                |                       |
-| AZ 900 azure cloud computing                  | <a href="https://google.com">Detection Lab</a>  |
-| Security,Compliance and identity fundermentals|  <a href="https://google.com">Detection Lab</a>  |                          
+| AZ 900 azure cloud computing                  | <a href=""></a>  |
+| Security,Compliance and identity fundermentals|  <a href="https://www.credly.com/badges/47437b51-46c4-4f44-a999-adfe3634d013/linked_in_profile">SC-900</a>  |                          
 
 
 

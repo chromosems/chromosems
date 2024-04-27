@@ -1,4 +1,4 @@
-
+ hey
 # Hello, I'm John
 <a href="https://linkedin.com/in/john-opuda-105a20188/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -37,6 +37,8 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
              <img src="https://img.shields.io/badge/Smb Relay-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
                   <img src="https://img.shields.io/badge/GoWitness-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL injection-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+             <img src="https://img.shields.io/badge/Metasploits-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+
 </div>
 
 ### Cloud

@@ -20,7 +20,7 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 | Wireless Security                             | <a href="https://google.com">Detection Lab</a>  |
 | Penetration Testing Tools                     |                      |
 | Report Writing                                |                       |
-| AZ 900 azure cloud computing                  | <a href="https://www.credly.com/badges/356abed5-f524-4e82-b43a-6e58fea63d80/linked_in_profile>AZ-900</a>  |
+| AZ 900 azure cloud computing                  | <a href="https://www.credly.com/badges/356abed5-f524-4e82-b43a-6e58fea63d80/linked_in_profile">AZ-900</a>  |
 | Security,Compliance and identity fundermentals|  <a href="https://www.credly.com/badges/47437b51-46c4-4f44-a999-adfe3634d013/linked_in_profile">SC-900</a>  |                          
 
 

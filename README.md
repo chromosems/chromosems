@@ -13,10 +13,10 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Vulnerability assessment                       | <a href="https://github.com/chromosems/attacking-web-application-with-common-vulnerabilities/tree/main">Attacking web aaplication with common vulnerabilities</a>|
+|Vulnerability assessment                       | <a href="https://github.com/chromosems/attacking-web-application-with-common-vulnerabilities/tree/main">Attacking web aplication with common vulnerabilities</a>|
 | Operating System Knowledge (linux/windows)    | <a href="https://google.com">Detection Lab</a>|
 | Scripting and programming languages           | SOC Automation Lab|
-| Exploitation techniques                       |  <a href="https://google.com">Attacking standalone machines</a> |
+| Exploitation techniques                       |  <a href="https://github.com/chromosems/Exploitation-of-stand-alone-machines-/tree/main">Attacking standalone machines</a> |
 | Wireless Security                             | <a href="https://google.com">Detection Lab</a>  |
 | Penetration Testing Tools                     |                      |
 | Report Writing                                |                       |
@@ -73,5 +73,6 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 
 ## Projects
 - Attackiing Active Directory 
-- <a href="https://github.com/chromosems/attacking-web-application-with-common-vulnerabilities/tree/main">Attacking web aaplication with common vulnerabilities</a>
+- <a href="https://github.com/chromosems/attacking-web-application-with-common-vulnerabilities/tree/main">Attacking web aplication with common vulnerabilities</a>
 - Attacking wireless Network
+- 

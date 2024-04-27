@@ -13,7 +13,7 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Networking fundamentals                       | <a href="https://google.com">Detection Lab</a>|
+|web application attacks/enumeration| <a href="https://github.com/chromosems/attacking-web-application-with-common-vulnerabilities/tree/main">Attacking web aaplication with common vulnerabilities</a>|
 | Operating System Knowledge (linux/windows)    | <a href="https://google.com">Detection Lab</a>|
 | Scripting and programming languages           | SOC Automation Lab|
 | Vulnerability assessment                      | <a href="https://google.com">Detection Lab</a> |

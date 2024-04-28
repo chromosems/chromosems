@@ -17,7 +17,6 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 | Operating System Knowledge (linux/windows)    | 
 | Scripting and programming languages           | <a href="https://github.com/chromosems/school-project">School Project</a>|
 | Exploitation techniques to gain shell access  | <a href="https://github.com/chromosems/Exploitation-of-stand-alone-machines-/tree/main">Attacking standa-lone machine </a> |
-| Wireless Security                             | <a href="https://google.com">Detection Lab</a>  |
 | Penetration Testing Tools                     |   <a href="https://github.com/chromosems/Attacking-active-Directory-with-LLMNR-poisoning-and-SMB-replay/tree/main">Attacking active Directory with LLMNR poisoning and SMB replay</a>                    |
 | Report Writing                                |                       |
 | AZ 900 azure cloud computing                  | <a href="https://www.credly.com/badges/356abed5-f524-4e82-b43a-6e58fea63d80/linked_in_profile">AZ-900</a>  |

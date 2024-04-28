@@ -65,6 +65,7 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)](https://www.credly.com/badges/356abed5-f524-4e82-b43a-6e58fea63d80/linked_in_profile)" />
+<img src="https://img.shields.io/badge/Practical Ethical Hacking-006400?&style=for-the-badge&logo=Suricata&logoColor=white" /><a href="https://github.com/chromosems/cert-of-completion/blob/main/certificate-of-completion-for-practical-ethical-hacking-the-complete-course.pdf"/>
 
 <img src="https://img.shields.io/badge/SC-900-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 <img src="https://img.shields.io/badge/Python for penetration tester-777BB4?&style=for-the-badge&logo=Suricata&logoColor=white" />

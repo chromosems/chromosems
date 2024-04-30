@@ -20,7 +20,8 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 | Penetration Testing Tools                     |   <a href="https://github.com/chromosems/Attacking-active-Directory-with-LLMNR-poisoning-and-SMB-replay/tree/main">Attacking active Directory with LLMNR poisoning and SMB replay</a>                    |
 | Incident report Writing                                |                       |
 | AZ-900 Azure Cloud Computing                  | <a href="https://www.credly.com/badges/356abed5-f524-4e82-b43a-6e58fea63d80/linked_in_profile">AZ-900</a>  |
-| SC-900 Security,Compliance and identity fundermentals|  <a href="https://www.credly.com/badges/47437b51-46c4-4f44-a999-adfe3634d013/linked_in_profile">SC-900</a>  |                          
+| SC-900 Security,Compliance and identity fundermentals|  <a href="https://www.credly.com/badges/47437b51-46c4-4f44-a999-adfe3634d013/linked_in_profile">SC-900</a>  |  
+
 
 
 
@@ -58,6 +59,7 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 ### SIEM
 <div>
         <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SIEM Home Lab-0078D4?&style=for-the-badge&logoColor=white" />
 
   
 </div>
@@ -74,6 +76,7 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking, an
 </div>
 
 ## Projects
+- <a href="">Security Information Event Management Using Elastic web Portal</a>
 -   <a href="https://github.com/chromosems/Attacking-active-Directory-with-LLMNR-poisoning-and-SMB-replay/tree/main">Attacking active Directory with LLMNR poisoning and SMB replay</a>
 - <a href="https://github.com/chromosems/attacking-web-application-with-common-vulnerabilities/tree/main">Attacking web aplication with common vulnerabilities</a>
 - <a href ="https://github.com/chromosems/Exploitation-of-stand-alone-machines-/tree/main">Exploitation techniques to gain shell access

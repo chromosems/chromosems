@@ -14,12 +14,12 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking/app
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Vulnerability assessment                       | <a href="https://github.com/chromosems/attacking-web-application-with-common-vulnerabilities/tree/main">Attacking web aplication with common vulnerabilities</a>|
-| Operating System Knowledge (linux/windows)    | 
+| Operating System Knowledge (linux/windows)    |                       |
 | Scripting and programming languages           | <a href="https://github.com/chromosems/school-project">School Project</a>|
 | Exploitation techniques to gain shell access  | <a href="https://github.com/chromosems/Exploitation-of-stand-alone-machines-/tree/main">Attacking stand-alone machine </a> |
-| Penetration Testing Tools                     |   <a href="https://github.com/chromosems/Attacking-active-Directory-with-LLMNR-poisoning-and-SMB-replay/tree/main">Attacking active Directory with LLMNR poisoning and SMB replay</a>                    |
+| Penetration Testing Tools                     |  <a href="https://github.com/chromosems/Attacking-active-Directory-with-LLMNR-poisoning-and-SMB-replay/tree/main">Attacking active Directory with LLMNR poisoning and SMB replay</a>                    |
 | Incident report Writing                                |                       |
-| Network Analysis with wireshark                                | <a href="https://github.com/chromosems/Network-analysis-with-Wireshark/tree/main">    Network analysis with Wireshark                  |
+| Network Analysis with wireshark              | <a href="https://github.com/chromosems/Network-analysis-with-Wireshark/tree/main">    Network analysis with Wireshark         |
 
 | MITRE ATT&CK                               |                       |
 | AZ-900 Azure Cloud Computing                  | <a href="https://www.credly.com/badges/356abed5-f524-4e82-b43a-6e58fea63d80/linked_in_profile">AZ-900</a>  |

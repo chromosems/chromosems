@@ -17,7 +17,7 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking/app
 | Operating System Knowledge (linux/windows)    |                       |
 | Scripting and programming languages           | <a href="https://github.com/chromosems/school-project">School Project</a>|
 | Exploitation techniques to gain shell access  | <a href="https://github.com/chromosems/Exploitation-of-stand-alone-machines-/tree/main">Attacking stand-alone machine </a> |
-| Penetration Testing Tools                     |  <a href="https://github.com/chromosems/Attacking-active-Directory-with-LLMNR-poisoning-and-SMB-replay/tree/main">Attacking active Directory with LLMNR poisoning and SMB replay</a>                    |
+| Penetration Testing Tools                     |  <a href="https://github.com/chromosems/Attacking-active-Directory-with-LLMNR-poisoning-and-SMB-replay/tree/main">Attacking active Directory with LLMNR poisoning and SMB relay</a>                    |
 | Incident response with windows                                |   <a href="https://github.com/chromosems/Incident-Response-With-Windows">Incident Response with Windows</a>                    |
 | Network Analysis with wireshark              | <a href="https://github.com/chromosems/Network-analysis-with-Wireshark/tree/main">Network analysis with Wireshark  </a> |
 | MITRE ATT&CK                               |                       |

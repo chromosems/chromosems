@@ -3,11 +3,11 @@
 <a href="https://linkedin.com/in/john-opuda-105a20188/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology  cybersecurity and software development and a dedication to solving complex problems.
+I am a recent graduate with a profound interest in  cloud engineering,cybersecurity analysis,pen-testing and a dedication to solving complex problems.
 
 ## Objective
 
-My path in cybersecurity has led me to develop a passion for Ethical hacking/application security/Cloud Security and I am now eager to transition into this field, specifically aiming to join a junior role in Penetration Tester role/SOC/Security Engineer/Software Development.
+My path in cybersecurity has led me to develop a passion for Ethical hacking/application security/Cloud Security and I am now eager to transition into this field.
 
 ## Skills
 

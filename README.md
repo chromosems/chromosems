@@ -46,8 +46,14 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking/app
 
 ### Cloud Engineering
 <div>
-    <img src="https://img.shields.io/badge/-Google cloud associate engineer-00A4EF?&style=for-the-badge&logo==white" />
-     <img src="https://img.shields.io/badge/Azure cloud fundermentals-00A4EF?&style=for-the-badge&logo==white" />
+    <img src="https://img.shields.io/badge/Pub/sub-00A4EF?&style=for-the-badge&logo==white" />
+     <img src="https://img.shields.io/badge/Cloud storage-00A4EF?&style=for-the-badge&logo==white" />
+         <img src="https://img.shields.io/badge/SQL-00A4EF?&style=for-the-badge&logo==white" />
+             <img src="https://img.shields.io/badge/Cloud architecture-00A4EF?&style=for-the-badge&logo==white" />
+                 <img src="https://img.shields.io/GKE-00A4EF?&style=for-the-badge&logo==white" />
+
+
+
 
     
 

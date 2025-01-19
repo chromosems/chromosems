@@ -46,7 +46,7 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking/app
 ### Cloud Engineering
 <div>
     <img src="https://img.shields.io/badge/-Azure cloud computing-00A4EF?&style=for-the-badge&logo==white" />
-     <img src="https://img.shields.io/badge/https://www.credly.com/badges/37b31b82-c10d-4a21-aa38-ca0cb8c3d314-00A4EF?&style=for-the-badge&logo==white" />
+     <img src="https://img.shields.io/badge/-Google cloud https://www.credly.com/badges/37b31b82-c10d-4a21-aa38-ca0cb8c3d314-00A4EF?&style=for-the-badge&logo==white" />
 
     
 

@@ -83,6 +83,8 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking/app
 
 <img src="https://img.shields.io/badge/SC-900-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 <img src="https://img.shields.io/badge/Python for penetration tester-777BB4?&style=for-the-badge&logo=Suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP -Google Cloud Engineer Associate-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+
 
 
 </div>

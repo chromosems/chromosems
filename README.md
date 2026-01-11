@@ -15,6 +15,7 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking/app
 |-----------------------------------------------|----------------------------|
 |Vulnerability assessment                       | <a href="https://github.com/chromosems/attacking-web-application-with-common-vulnerabilities/tree/main">Attacking web aplication with common vulnerabilities</a>|
 | SOC Homelab                                   | <a href="https://github.com/chromosems/HoldMyNuggets-Sentinel-SOC-ANALYST---HANDS--ON-LAB-/blob/main/README.md"> HoldMyNuggets.org
+| SOC Documentations and Reporting              | <a https://github.com/chromosems/phishing-Report-documentation/blob/main/Phishing%20Analysis%20Report%20.pdf> Phishing Report and documentation
 | Scripting and programming languages           | <a href="https://github.com/chromosems/school-project">School Project</a>|
 | Exploitation techniques to gain shell access  | <a href="https://github.com/chromosems/Exploitation-of-stand-alone-machines-/tree/main">Attacking stand-alone machine </a> |
 | Penetration Testing Tools                     |  <a href="https://github.com/chromosems/Attacking-active-Directory-with-LLMNR-poisoning-and-SMB-replay/tree/main">Attacking active Directory with LLMNR poisoning and SMB relay</a>                    |

@@ -13,6 +13,8 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking/app
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Ransomware Analysis with Splunk            | <a href="https://github.com/chromosems/Ransomware-Analysis-Splunk/new/main">Ransomware Analysis with splunk  </a> |
+
 |Vulnerability assessment                       | <a href="https://github.com/chromosems/attacking-web-application-with-common-vulnerabilities/tree/main">Attacking web aplication with common vulnerabilities</a>|
 | SOC Homelab                                   | <a href="https://github.com/chromosems/HoldMyNuggets-Sentinel-SOC-ANALYST---HANDS--ON-LAB-/blob/main/README.md"> HoldMyNuggets.org
 | SOC Documentations and Reporting              |  https://github.com/chromosems/phishing-Report-documentation/blob/main/Phishing%20Analysis%20Report%20.pdf Phishing Report and documentation

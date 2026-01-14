@@ -15,14 +15,14 @@ My path in cybersecurity has led me to develop a passion for Ethical hacking/app
 |-----------------------------------------------|----------------------------|
 |Vulnerability assessment                       | <a href="https://github.com/chromosems/attacking-web-application-with-common-vulnerabilities/tree/main">Attacking web aplication with common vulnerabilities</a>|
 | Ransomware Analysis with Splunk            | <a href="https://github.com/chromosems/Ransomware-Analysis-Splunk">Ransomware Analysis with splunk  </a> |
-| SOC Homelab                                   | <a href="https://github.com/chromosems/HoldMyNuggets-Sentinel-SOC-ANALYST---HANDS--ON-LAB-/blob/main/README.md"> HoldMyNuggets.org
+| SOC Homelab                                   | <a href="https://github.com/chromosems/HoldMyNuggets-Sentinel-SOC-ANALYST---HANDS--ON-LAB-/blob/main/"> HoldMyNuggets.org
 | SOC Documentations and Reporting              |  https://github.com/chromosems/phishing-Report-documentation/blob/main/Phishing%20Analysis%20Report%20.pdf Phishing Report and documentation
 | Scripting and programming languages           | <a href="https://github.com/chromosems/school-project">School Project</a>|
 | Exploitation techniques to gain shell access  | <a href="https://github.com/chromosems/Exploitation-of-stand-alone-machines-/tree/main">Attacking stand-alone machine </a> |
 | Penetration Testing Tools                     |  <a href="https://github.com/chromosems/Attacking-active-Directory-with-LLMNR-poisoning-and-SMB-replay/tree/main">Attacking active Directory with LLMNR poisoning and SMB relay</a>                    |
 | Incident response with windows                                |   <a href="https://github.com/chromosems/Incident-Response-With-Windows">Incident Response with Windows</a>                    |
 | Network Analysis with wireshark              | <a href="https://github.com/chromosems/Network-analysis-with-Wireshark/tree/main">Network analysis with Wireshark  </a> |
-| API Hacking                                   | <a href="https://github.com/chromosems/Paper-API-Hacking-HTB/blob/main/README.md">API Hacking </a> |                     |
+| API Hacking                                   | <a href="https://github.com/chromosems/Paper-API-Hacking-HTB/blob/main/">API Hacking </a> |                     |
 | Google cloud associate engineer           | <a href="https://www.credly.com/badges/37b31b82-c10d-4a21-aa38-ca0cb8c3d314">Associate Cloud Engineer</a>|
 | AZ-900 Azure Cloud Computing                  | <a href="https://www.credly.com/badges/356abed5-f524-4e82-b43a-6e58fea63d80/linked_in_profile">AZ-900</a>  |
 | SC-900 Security,Compliance and identity fundermentals|  <a href="https://www.credly.com/badges/47437b51-46c4-4f44-a999-adfe3634d013/linked_in_profile">SC-900</a>  |  

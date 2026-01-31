@@ -7,7 +7,7 @@ I am a recent graduate with a profound interest in cybersecurity analysis,Ethica
 
 ## Objective
 
-I have developed a strong passion for ethical hacking, application security, and cloud security through my cybersecurity journey. I am now actively seeking to transition my career into this field.
+I have developed a strong passion for ethical hacking,  security analysis, and cloud engineering through my cybersecurity journey. I am now actively seeking to transition my career into this field.
 ## Skills
 
 | Skill                                         | Associated Project         |

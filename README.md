@@ -21,6 +21,7 @@ I have developed a strong passion for ethical hacking,  security analysis, and c
 | Penetration Testing Tools                     |  <a href="https://github.com/chromosems/Attacking-active-Directory-with-LLMNR-poisoning-and-SMB-replay/tree/main">Attacking active Directory with LLMNR poisoning and SMB relay</a>                    |
 | Incident response with windows                                |   <a href="https://github.com/chromosems/Incident-Response-With-Windows">Incident Response with Windows</a>                    |
 | Network Analysis with wireshark              | <a href="https://github.com/chromosems/Network-analysis-with-Wireshark/tree/main">Network analysis with Wireshark  </a> |
+| Windows process analysis              | <a href="https://github.com/chromosems/Windows-process-Analysis/blob/main/README.md">Windows Process Analysis </a> |
 | API Hacking                                   | <a href="https://github.com/chromosems/Paper-API-Hacking-HTB/blob/main/">API Hacking </a> |                     |
 | Google cloud associate engineer           | <a href="https://www.credly.com/badges/37b31b82-c10d-4a21-aa38-ca0cb8c3d314">Associate Cloud Engineer</a>|
 | AZ-900 Azure Cloud Computing                  | <a href="https://www.credly.com/badges/356abed5-f524-4e82-b43a-6e58fea63d80/linked_in_profile">AZ-900</a>  |

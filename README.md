@@ -23,7 +23,7 @@ I have developed a strong passion for ethical hacking,  security analysis, and c
 | Network Analysis with wireshark              | <a href="https://github.com/chromosems/Network-analysis-with-Wireshark/tree/main">Network analysis with Wireshark  </a> |
 | Windows process analysis              | <a href="https://github.com/chromosems/Windows-process-Analysis/blob/main/README.md">Windows Process Analysis </a> |
 | API Hacking                                   | <a href="https://github.com/chromosems/Paper-API-Hacking-HTB/blob/main/">API Hacking </a> |                     |
-| Google cloud associate engineer           | <a href="https://www.credly.com/badges/37b31b82-c10d-4a21-aa38-ca0cb8c3d314">Associate Cloud Engineer</a>|
+| Endpoint Security assessment         | <a href="https://github.com/chromosems/Windows-Endpoint-Analysis-Challenge/blob/main/README.md">Endpoint security</a>|
 | AZ-900 Azure Cloud Computing                  | <a href="https://www.credly.com/badges/356abed5-f524-4e82-b43a-6e58fea63d80/linked_in_profile">AZ-900</a>  |
 | SC-900 Security,Compliance and identity fundermentals|  <a href="https://www.credly.com/badges/47437b51-46c4-4f44-a999-adfe3634d013/linked_in_profile">SC-900</a>  |  
 
